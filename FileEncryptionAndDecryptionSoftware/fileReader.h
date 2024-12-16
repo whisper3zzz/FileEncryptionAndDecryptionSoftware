@@ -9,13 +9,13 @@
 #include <optional>
 #include "Singleton.h"
 
-class FileReader : public Singleton<FileReader>, public QObject {
+class FileReader :  public QObject ,public Singleton<FileReader>{
     Q_OBJECT
 
   public:
     std::optional<QString> readTextFile();
 
-  private:
+
     explicit FileReader(QObject *parent = nullptr);
 };
 

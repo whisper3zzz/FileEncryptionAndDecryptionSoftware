@@ -287,6 +287,12 @@
 	"HEADERS" : 
 	[
 		[
+			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/caesarCipher.h",
+			"MU",
+			"EWIEGA46WW/moc_caesarCipher.cpp",
+			null
+		],
+		[
 			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/cipher.h",
 			"MU",
 			"EWIEGA46WW/moc_cipher.cpp",
@@ -308,6 +314,24 @@
 			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/singleton.h",
 			"MU",
 			"EWIEGA46WW/moc_singleton.cpp",
+			null
+		],
+		[
+			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/transpositioncipher.h",
+			"MU",
+			"EWIEGA46WW/moc_transpositioncipher.cpp",
+			null
+		],
+		[
+			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/vigenereCipher.h",
+			"MU",
+			"EWIEGA46WW/moc_vigenereCipher.cpp",
+			null
+		],
+		[
+			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/xorcipher.h",
+			"MU",
+			"EWIEGA46WW/moc_xorcipher.cpp",
 			null
 		]
 	],
@@ -367,6 +391,11 @@
 	"SOURCES" : 
 	[
 		[
+			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/caesarCipher.cpp",
+			"MU",
+			null
+		],
+		[
 			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/fileReader.cpp",
 			"MU",
 			null
@@ -382,7 +411,17 @@
 			null
 		],
 		[
-			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/singleton.cpp",
+			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/transpositioncipher.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/vigenereCipher.cpp",
+			"MU",
+			null
+		],
+		[
+			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/xorcipher.cpp",
 			"MU",
 			null
 		]
