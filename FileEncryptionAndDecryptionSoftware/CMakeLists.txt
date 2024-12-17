@@ -28,8 +28,10 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         cipher.h
         caesarCipher.h caesarCipher.cpp
         xorCipher.h xorCipher.cpp
-        transpositionCipher.h transpositionCipher.cpp
         vigenereCipher.h vigenereCipher.cpp
+        cipherManager.h
+        transpositionCipher.h transpositionCipher.cpp
+
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET FileEncryptionAndDecryptionSoftware APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

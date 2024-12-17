@@ -299,6 +299,12 @@
 			null
 		],
 		[
+			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/cipherManager.h",
+			"MU",
+			"EWIEGA46WW/moc_cipherManager.cpp",
+			null
+		],
+		[
 			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/fileReader.h",
 			"MU",
 			"EWIEGA46WW/moc_fileReader.cpp",
@@ -317,9 +323,9 @@
 			null
 		],
 		[
-			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/transpositioncipher.h",
+			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/transpositionCipher.h",
 			"MU",
-			"EWIEGA46WW/moc_transpositioncipher.cpp",
+			"EWIEGA46WW/moc_transpositionCipher.cpp",
 			null
 		],
 		[
@@ -329,9 +335,9 @@
 			null
 		],
 		[
-			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/xorcipher.h",
+			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/xorCipher.h",
 			"MU",
-			"EWIEGA46WW/moc_xorcipher.cpp",
+			"EWIEGA46WW/moc_xorCipher.cpp",
 			null
 		]
 	],
@@ -411,7 +417,7 @@
 			null
 		],
 		[
-			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/transpositioncipher.cpp",
+			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/transpositionCipher.cpp",
 			"MU",
 			null
 		],
@@ -421,7 +427,7 @@
 			null
 		],
 		[
-			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/xorcipher.cpp",
+			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/xorCipher.cpp",
 			"MU",
 			null
 		]
