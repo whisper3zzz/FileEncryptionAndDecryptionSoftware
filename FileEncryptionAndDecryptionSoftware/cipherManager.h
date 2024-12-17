@@ -8,14 +8,13 @@
 #include "CaesarCipher.h"
 #include "VigenereCipher.h"
 #include "XorCipher.h"
-#include "TranspositionCipher.h"
-#include "Singleton.h" // 引入单例基类
-
+#include "Singleton.h"
+#include"substitutionCipher.h"
 class CipherManager : public Singleton<CipherManager> {
-    friend class Singleton<CipherManager>; // 允许 Singleton 访问构造函数
+    friend class Singleton<CipherManager>;
 
   public:
-    // 可用算法列表
+    // 算法列表
     std::vector<std::string> getAvailableAlgorithms() const {
         std::vector<std::string> algorithmNames;
         for (const auto& pair : ciphers) {
@@ -24,7 +23,7 @@ class CipherManager : public Singleton<CipherManager> {
         return algorithmNames;
     }
 
-           // 加密和解密功能
+
     std::string encrypt(const std::string& algorithm, const std::string& plaintext) {
         auto it = ciphers.find(algorithm);
         if (it != ciphers.end()) {
@@ -42,21 +41,21 @@ class CipherManager : public Singleton<CipherManager> {
     }
 
   private:
-    // 构造函数
+
     CipherManager() {
-        // 注册算法
+
         registerCipher("Caesar", &CaesarCipher::instance());
         registerCipher("Vigenere", &VigenereCipher::instance());
         registerCipher("Xor", &XorCipher::instance());
-        registerCipher("Transposition", &TranspositionCipher::instance());
+        registerCipher("Substitution", &SubstitutionCipher::instance());
     }
 
-           // 注册算法
+
     void registerCipher(const std::string& name, Cipher* cipher) {
         ciphers[name] = cipher;
     }
 
-           // 存储可用算法的映射
+
     std::unordered_map<std::string, Cipher*> ciphers;
 };
 

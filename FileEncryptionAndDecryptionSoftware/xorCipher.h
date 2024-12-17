@@ -11,8 +11,7 @@ class XorCipher : public Singleton<XorCipher>, public Cipher {
     std::string encrypt(const std::string &plaintext) const override;
     std::string decrypt(const std::string &ciphertext) const override;
 
-  private:
-    XorCipher() : key(0) {} // 保护构造函数
+    XorCipher() : key(0) {}
     char key;
 };
 

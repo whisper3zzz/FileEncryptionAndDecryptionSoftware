@@ -323,9 +323,9 @@
 			null
 		],
 		[
-			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/transpositionCipher.h",
+			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/substitutionCipher.h",
 			"MU",
-			"EWIEGA46WW/moc_transpositionCipher.cpp",
+			"EWIEGA46WW/moc_substitutionCipher.cpp",
 			null
 		],
 		[
@@ -417,7 +417,7 @@
 			null
 		],
 		[
-			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/transpositionCipher.cpp",
+			"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/substitutionCipher.cpp",
 			"MU",
 			null
 		],

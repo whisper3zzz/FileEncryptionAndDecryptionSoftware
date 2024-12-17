@@ -375,8 +375,8 @@ FileEncryptionAndDecryptionSoftware_autogen/timestamp: \
 	E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/mainwindow.cpp \
 	E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/mainwindow.h \
 	E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/singleton.h \
-	E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/transpositionCipher.cpp \
-	E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/transpositionCipher.h \
+	E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/substitutionCipher.cpp \
+	E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/substitutionCipher.h \
 	E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/vigenereCipher.cpp \
 	E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/vigenereCipher.h \
 	E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/xorCipher.cpp \

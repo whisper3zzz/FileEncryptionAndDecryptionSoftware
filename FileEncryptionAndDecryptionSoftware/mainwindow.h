@@ -19,6 +19,8 @@ class MainWindow : public QMainWindow {
   private slots:
     void on_fileReader_Button_clicked();
 
+    void on_swich_Button_clicked();
+
   private:
     Ui::MainWindow* ui;
 };

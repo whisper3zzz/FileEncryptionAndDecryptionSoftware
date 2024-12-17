@@ -12,8 +12,8 @@ class VigenereCipher : public Singleton<VigenereCipher>, public Cipher {
     std::string encrypt(const std::string &plaintext) const override;
     std::string decrypt(const std::string &ciphertext) const override;
 
-  private:
-    VigenereCipher() = default; // 保护构造函数
+
+    VigenereCipher() = default;
     std::string key;
 };
 
