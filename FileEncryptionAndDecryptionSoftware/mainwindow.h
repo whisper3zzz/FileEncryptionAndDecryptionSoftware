@@ -21,6 +21,8 @@ class MainWindow : public QMainWindow {
 
     void on_swich_Button_clicked();
 
+    void on_Cipher_comboBox_currentIndexChanged(int index);
+
   private:
     Ui::MainWindow* ui;
 };
