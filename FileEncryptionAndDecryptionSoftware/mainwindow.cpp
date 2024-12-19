@@ -144,7 +144,7 @@ void MainWindow::on_fileReader_Button_clicked()
             }
         }
         if(ui->Cipher_comboBox->currentIndex()==3){
-        }
+
 
             std::unordered_map<char, char> substitutionMap = {
                 {'A', 'D'}, {'B', 'E'}, {'C', 'F'}, {'D', 'G'},
@@ -190,7 +190,7 @@ void MainWindow::on_fileReader_Button_clicked()
                 // 处理文件打开失败的情况
                 qDebug() << "Failed to open file for writing:" << file.errorString();
             }
-         }
+        }}
         if(ui->swich_Button->text()=="当前处于:解密模式")
     {
         if(ui->Cipher_comboBox->currentIndex()==0){
