@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/FileEncryptionAndDecryptionSoftware_autogen",
+	"CMAKE_BINARY_DIR" : "E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware",
+	"CMAKE_SOURCE_DIR" : "E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/FileEncryptionAndDecryptionSoftware_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/Media/Texture/bk.jpg"
+	],
+	"LOCK_FILE" : "E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/FileEncryptionAndDecryptionSoftware_autogen.dir/AutoRcc_Media_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "Media" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Media.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/6.8.1/msvc2022_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/FileEncryptionAndDecryptionSoftware_autogen.dir/AutoRcc_Media_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/whisper3zzz/CodeSpace/Qt/FileEncryptionAndDecryptionSoftware/FileEncryptionAndDecryptionSoftware/Media.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

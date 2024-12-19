@@ -23,6 +23,8 @@ class MainWindow : public QMainWindow {
 
     void on_Cipher_comboBox_currentIndexChanged(int index);
 
+    void on_keySet_textEdit_textChanged();
+
   private:
     Ui::MainWindow* ui;
 };

@@ -20,4 +20,5 @@ std::optional<QString> FileReader::readTextFile() {
     file.close();
 
     return fileContent; // 返回文件内容
+
 }

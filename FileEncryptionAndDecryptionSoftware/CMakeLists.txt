@@ -31,6 +31,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         vigenereCipher.h vigenereCipher.cpp
         cipherManager.h
         substitutionCipher.h substitutionCipher.cpp
+        Media.qrc
 
 
     )
